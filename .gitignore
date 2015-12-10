@@ -1,0 +1,15 @@
+*.class
+*.prefs
+*/bin
+*.classpath
+*.project
+*.settings
+*~
+/bin
+.metadata/
+
+data/
+songs/
+
+.idea/
+*.iml
